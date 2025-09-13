@@ -338,4 +338,5 @@ Esta herramienta le permitirá transferir ficheros entre su máquina virtual y e
 - `get <fich>` - Copiar el fichero `<fich>` desde su máquina virtual a su equipo
 - `put <fich>` - Copiar el fichero `<fich>` desde su equipo a su máquina virtual
 - `exit` - Salir de la sesión `sftp`
+
 Utilice el comando `sftp` para descargar el fichero `square_numbers.cc` desde su máquina virtual a su equipo.
