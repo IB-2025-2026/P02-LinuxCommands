@@ -74,18 +74,18 @@ $ git clone git@github.com:IB-2025-2026/P02-LinuxCommands.git IB-p02-LinuxComman
 ```
 
 #### Ejercicio 2. 
-En su directorio de trabajo hallará el fichero `linux-exercise.tar.gz`.
+En su directorio de trabajo hallará el fichero `ib-p02-Intro-Linux.tar.gz`.
 Se trata de un fichero *tar* (conjunto de ficheros) que a su vez está comprimido (nótese la extensión `.gz`).
 
 Descomprima ese fichero:
 
 ``` .bash
-$ tar xvfz linux-exercise.tar.gz 
+$ tar xvfz ib-p02-Intro-Linux.tar.gz 
 ``` 
 
 Utilice [explainshell](https://explainshell.com/) para estudiar el significado de las diferentes opciones que
 ha utilizado en el comando anterior.
-Para ello, escriba el comando en [explainshell](https://explainshell.com/explain?cmd=tar+xzvf+linux-exercise.tar.gz+) tal como acaba de escribirlo
+Para ello, escriba el comando en [explainshell](https://explainshell.com/explain?cmd=tar+xzvf+ib-p02-Intro-Linux.tar.gz+) tal como acaba de escribirlo
 
 La opción `v` (*verbose*) en el comando `tar` muestra los ficheros con la ruta conforme son descomprimidos y extraídos. 
 Como resultado de la ejecución del comando obtendrá una serie de ficheros en un subdirectorio llamado `linux-exercises`. 
